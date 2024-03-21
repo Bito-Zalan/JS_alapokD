@@ -1,0 +1,12 @@
+.kiv {
+    background-color: antiquewhite;
+}
+img{
+    width: 100%;
+    width: 200px;
+    height: 200px;
+}
+.kepek{
+    display: flex;
+    flex-wrap: wrap;
+}
